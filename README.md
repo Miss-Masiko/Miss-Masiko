@@ -1,7 +1,6 @@
-# Hi, I'm Nwabisa Masiko 👋
-🌟 Coding Coach 🌟 | 🌐 Front-End Developer 💻 
+![Logo](https://github.com/Miss-Masiko/myImageReference/blob/main/code%20and%20confidence.png)
 
-## About Me 🙋‍♂️
+## 🙋‍♂️🌟 Coding Coach 🌟 | 🌐 Web Developer 💻 
 👨‍💻 As a coding coach, my mission is to empower aspiring developers and help them excel in their coding journey. With +6 years of experience in the tech industry, I've honed my skills and developed a deep understanding of various programming languages and frameworks.
 
 ## Expertise 💡
